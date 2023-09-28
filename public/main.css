@@ -1,0 +1,27 @@
+div {
+    height: 100vh;
+    width: auto;
+    margin: 0px;
+    padding: 0px;;
+}
+
+h1 {
+    font-size:xx-large;
+    text-align: center;
+    font-family: 'Short Stack', cursive;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: medium;
+    text-align: center;
+    color: grey;
+    opacity: 50%;
+}
+
+img {
+    display: block;
+    width: 50%;
+    max-height: 700px;
+    margin: auto;
+}
